@@ -7,7 +7,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
+      <body className={'${Caudex.className} antialiased'}>
         <h1> Este sera el titulo </h1>
         <div style={{border: '1px solid #000'}}>
          {children}
