@@ -1,3 +1,3 @@
 export default function Page(){
-    return <p> Dashboard page </p>
+    return <p> Esta pagina es el contenido del Dashboard  </p>
 }
